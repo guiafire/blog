@@ -1,1 +1,1 @@
-// Direct link is defined in index.html.
+// El botón abre directamente el enlace configurado en index.html.
