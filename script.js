@@ -1,1 +1,3 @@
-// El botón abre directamente el enlace configurado en index.html.
+document.querySelector(".claim").addEventListener("click", () => {
+  // El enlace se abre directamente desde el botón.
+});
