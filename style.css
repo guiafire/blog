@@ -148,7 +148,7 @@ h1 em{
 
 .description{
   color:var(--muted);
-  margin:0 0 25px;
+  margin:14px 0 15px;
   font-size:14px;
 }
 
@@ -172,6 +172,7 @@ h1 em{
   box-shadow:0 15px 45px rgba(0,0,0,.45),0 0 30px rgba(232,189,103,.15);
   overflow:hidden;
   animation:pulse 2s ease-in-out infinite;
+  transform:translateY(-14px);
 }
 
 .claim:before{
